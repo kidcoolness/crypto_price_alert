@@ -1,0 +1,7 @@
+Welcome to coin_update!
+
+Please provide Gmail: "youremail@here.com"
+Password: 'password'
+ 
+Please list all coins and the purchase price and the desired percent increase in the provided format ("-coin_name, purchase_price, desired percent increase).
+
